@@ -1,1 +1,4 @@
-{"footprint": "https://raw.githubusercontent.com/chenkianwee/geojsonexamples/master/buildings_2015_princeton.geojson","road": "https://raw.githubusercontent.com/chenkianwee/geojsonexamples/master/roads_2015_princeton.geojson","imp": "https://raw.githubusercontent.com/chenkianwee/geojsonexamples/master/imps_2015_princeton.geojson","pervious": "https://raw.githubusercontent.com/chenkianwee/geojsonexamples/master/pervious_2015_princeton.geojson"}
+{"footprint": "https://raw.githubusercontent.com/chenkianwee/geojsonexamples/master/buildings_2015_princeton.geojson",
+  "road": "https://raw.githubusercontent.com/chenkianwee/geojsonexamples/master/roads_2015_princeton.geojson",
+  "imp": "https://raw.githubusercontent.com/chenkianwee/geojsonexamples/master/imps_2015_princeton.geojson",
+  "pervious": "https://raw.githubusercontent.com/chenkianwee/geojsonexamples/master/pervious_2015_princeton.geojson"}
