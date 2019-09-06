@@ -1,2 +1,2 @@
-[{'treeheight': 'https://raw.githubusercontent.com/chenkianwee/geojsonexamples/master/treeheights_2015_princeton.geojson',
-  'solar':'test'}]
+{"treeheight": "https://raw.githubusercontent.com/chenkianwee/geojsonexamples/master/treeheights_2015_princeton.geojson",
+  "solar":"test"}
