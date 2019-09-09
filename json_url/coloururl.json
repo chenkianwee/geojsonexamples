@@ -1,2 +1,14 @@
 {"treeheight": "https://raw.githubusercontent.com/chenkianwee/geojsonexamples/master/treeheights_2015_princeton.geojson",
-  "roofplan":"https://raw.githubusercontent.com/chenkianwee/geojsonexamples/master/roofs_2015_princeton.geojson"}
+  "roofsolar0":"https://raw.githubusercontent.com/chenkianwee/geojsonexamples/master/roof_solar/solar0.json",
+  "roofsolar1":"https://raw.githubusercontent.com/chenkianwee/geojsonexamples/master/roof_solar/solar1.json",
+  "roofsolar2":"https://raw.githubusercontent.com/chenkianwee/geojsonexamples/master/roof_solar/solar2.json",
+  "roofsolar3":"https://raw.githubusercontent.com/chenkianwee/geojsonexamples/master/roof_solar/solar3.json",
+  "roofsolar4":"https://raw.githubusercontent.com/chenkianwee/geojsonexamples/master/roof_solar/solar4.json",
+  "roofsolar5":"https://raw.githubusercontent.com/chenkianwee/geojsonexamples/master/roof_solar/solar5.json",
+  "roofsolar6":"https://raw.githubusercontent.com/chenkianwee/geojsonexamples/master/roof_solar/solar6.json",
+  "roofsolar7":"https://raw.githubusercontent.com/chenkianwee/geojsonexamples/master/roof_solar/solar7.json",
+  "roofsolar8":"https://raw.githubusercontent.com/chenkianwee/geojsonexamples/master/roof_solar/solar8.json",
+  "roofsolar9":"https://raw.githubusercontent.com/chenkianwee/geojsonexamples/master/roof_solar/solar9.json",
+  "roofsolar10":"https://raw.githubusercontent.com/chenkianwee/geojsonexamples/master/roof_solar/solar10.json",
+  "roofsolar11":"https://raw.githubusercontent.com/chenkianwee/geojsonexamples/master/roof_solar/solar11.json"
+}
