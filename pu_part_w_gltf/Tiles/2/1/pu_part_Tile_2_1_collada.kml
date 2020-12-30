@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Written by impexp-kml-collada-plugin, version "4.2.0" -->
+<!-- Chair of Geoinformatics, Technical University of Munich -->
+<kml xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0" xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <name>pu_part_Tile_2_1_collada</name>
+    <open>false</open>
+    <Placemark id="COLLADA_UUID_8d9fe854-5ec6-405d-853f-040f16a3bda6">
+      <name>UUID_8d9fe854-5ec6-405d-853f-040f16a3bda6</name>
+      <Model>
+        <altitudeMode>absolute</altitudeMode>
+        <Location>
+          <longitude>-74.6599172</longitude>
+          <latitude>40.3473763</latitude>
+          <altitude>61.81333</altitude>
+        </Location>
+        <Orientation>
+          <heading>0.2158005</heading>
+        </Orientation>
+        <Link>
+          <href>31/UUID_8d9fe854-5ec6-405d-853f-040f16a3bda6.dae</href>
+        </Link>
+      </Model>
+    </Placemark>
+  </Document>
+</kml>

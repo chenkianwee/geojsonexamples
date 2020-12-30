@@ -1,0 +1,16 @@
+{
+	"version": "1.0.0",
+	"layername": "pu_part",
+	"fileextension": ".kml",
+	"displayform": "collada",
+	"minLodPixels": 0,
+	"maxLodPixels": -1,
+	"colnum": 6,
+	"rownum": 5,
+	"bbox":{ 
+		"xmin": -74.66233949465702,
+		"xmax": -74.65419158396523,
+		"ymin": 40.34453523468665,
+		"ymax": 40.34985387702198
+	}
+}

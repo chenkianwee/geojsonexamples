@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Written by impexp-kml-collada-plugin, version "4.2.0" -->
+<!-- Chair of Geoinformatics, Technical University of Munich -->
+<kml xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0" xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <name>pu_part_Tile_3_1_collada</name>
+    <open>false</open>
+    <Placemark id="COLLADA_UUID_9c4456ad-3ec6-4d9c-8127-ab6f761bf095">
+      <name>UUID_9c4456ad-3ec6-4d9c-8127-ab6f761bf095</name>
+      <Model>
+        <altitudeMode>absolute</altitudeMode>
+        <Location>
+          <longitude>-74.6601655</longitude>
+          <latitude>40.3479982</latitude>
+          <altitude>63.055312</altitude>
+        </Location>
+        <Orientation>
+          <heading>0.2243136</heading>
+        </Orientation>
+        <Link>
+          <href>38/UUID_9c4456ad-3ec6-4d9c-8127-ab6f761bf095.dae</href>
+        </Link>
+      </Model>
+    </Placemark>
+    <Placemark id="COLLADA_UUID_1b114d5d-8c48-4727-b4c1-5c47cf3f4e82">
+      <name>UUID_1b114d5d-8c48-4727-b4c1-5c47cf3f4e82</name>
+      <Model>
+        <altitudeMode>absolute</altitudeMode>
+        <Location>
+          <longitude>-74.6607696</longitude>
+          <latitude>40.3477964</latitude>
+          <altitude>62.833233</altitude>
+        </Location>
+        <Orientation>
+          <heading>0.2193217</heading>
+        </Orientation>
+        <Link>
+          <href>34/UUID_1b114d5d-8c48-4727-b4c1-5c47cf3f4e82.dae</href>
+        </Link>
+      </Model>
+    </Placemark>
+    <Placemark id="COLLADA_UUID_913370bb-15ab-4980-afb8-47276574ef38">
+      <name>UUID_913370bb-15ab-4980-afb8-47276574ef38</name>
+      <Model>
+        <altitudeMode>absolute</altitudeMode>
+        <Location>
+          <longitude>-74.6599526</longitude>
+          <latitude>40.3486273</latitude>
+          <altitude>65.432064</altitude>
+        </Location>
+        <Orientation>
+          <heading>0.2191541</heading>
+        </Orientation>
+        <Link>
+          <href>46/UUID_913370bb-15ab-4980-afb8-47276574ef38.dae</href>
+        </Link>
+      </Model>
+    </Placemark>
+    <Placemark id="COLLADA_UUID_7636a823-d3e6-4226-9844-796313eaa4c0">
+      <name>UUID_7636a823-d3e6-4226-9844-796313eaa4c0</name>
+      <Model>
+        <altitudeMode>absolute</altitudeMode>
+        <Location>
+          <longitude>-74.6603318</longitude>
+          <latitude>40.3479828</latitude>
+          <altitude>63.657403</altitude>
+        </Location>
+        <Orientation>
+          <heading>0.2169601</heading>
+        </Orientation>
+        <Link>
+          <href>39/UUID_7636a823-d3e6-4226-9844-796313eaa4c0.dae</href>
+        </Link>
+      </Model>
+    </Placemark>
+    <Placemark id="COLLADA_UUID_93add5f3-d156-478e-95a2-b14ceb6ac3bf">
+      <name>UUID_93add5f3-d156-478e-95a2-b14ceb6ac3bf</name>
+      <Model>
+        <altitudeMode>absolute</altitudeMode>
+        <Location>
+          <longitude>-74.6595928</longitude>
+          <latitude>40.3480175</latitude>
+          <altitude>64.958915</altitude>
+        </Location>
+        <Orientation>
+          <heading>0.2207216</heading>
+        </Orientation>
+        <Link>
+          <href>41/UUID_93add5f3-d156-478e-95a2-b14ceb6ac3bf.dae</href>
+        </Link>
+      </Model>
+    </Placemark>
+    <Placemark id="COLLADA_UUID_ba0a0f69-f72d-4990-9c51-8613fc3fbc6b">
+      <name>UUID_ba0a0f69-f72d-4990-9c51-8613fc3fbc6b</name>
+      <Model>
+        <altitudeMode>absolute</altitudeMode>
+        <Location>
+          <longitude>-74.6604453</longitude>
+          <latitude>40.3484895</latitude>
+          <altitude>65.140313</altitude>
+        </Location>
+        <Orientation>
+          <heading>0.2245434</heading>
+        </Orientation>
+        <Link>
+          <href>43/UUID_ba0a0f69-f72d-4990-9c51-8613fc3fbc6b.dae</href>
+        </Link>
+      </Model>
+    </Placemark>
+  </Document>
+</kml>

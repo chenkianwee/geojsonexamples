@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Written by impexp-kml-collada-plugin, version "4.2.0" -->
+<!-- Chair of Geoinformatics, Technical University of Munich -->
+<kml xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0" xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <name>pu_part_Tile_0_5_collada</name>
+    <open>false</open>
+    <Placemark id="COLLADA_UUID_3d9d85df-8a7d-4b90-8d82-bac5a9e5ec01">
+      <name>UUID_3d9d85df-8a7d-4b90-8d82-bac5a9e5ec01</name>
+      <Model>
+        <altitudeMode>absolute</altitudeMode>
+        <Location>
+          <longitude>-74.6552514</longitude>
+          <latitude>40.3451418</latitude>
+          <altitude>45.711188</altitude>
+        </Location>
+        <Orientation>
+          <heading>0.2240246</heading>
+        </Orientation>
+        <Link>
+          <href>6/UUID_3d9d85df-8a7d-4b90-8d82-bac5a9e5ec01.dae</href>
+        </Link>
+      </Model>
+    </Placemark>
+    <Placemark id="COLLADA_UUID_4ea2e89a-97f6-49bd-9354-7a93de8c12c6">
+      <name>UUID_4ea2e89a-97f6-49bd-9354-7a93de8c12c6</name>
+      <Model>
+        <altitudeMode>absolute</altitudeMode>
+        <Location>
+          <longitude>-74.6553577</longitude>
+          <latitude>40.3454495</latitude>
+          <altitude>46.342646</altitude>
+        </Location>
+        <Orientation>
+          <heading>0.2313474</heading>
+        </Orientation>
+        <Link>
+          <href>10/UUID_4ea2e89a-97f6-49bd-9354-7a93de8c12c6.dae</href>
+        </Link>
+      </Model>
+    </Placemark>
+  </Document>
+</kml>

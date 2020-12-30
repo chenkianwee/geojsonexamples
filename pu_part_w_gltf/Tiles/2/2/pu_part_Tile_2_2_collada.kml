@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Written by impexp-kml-collada-plugin, version "4.2.0" -->
+<!-- Chair of Geoinformatics, Technical University of Munich -->
+<kml xmlns:xal="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0" xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <name>pu_part_Tile_2_2_collada</name>
+    <open>false</open>
+    <Placemark id="COLLADA_UUID_089d980d-18e9-4e53-963d-bb69d795fcdf">
+      <name>UUID_089d980d-18e9-4e53-963d-bb69d795fcdf</name>
+      <Model>
+        <altitudeMode>absolute</altitudeMode>
+        <Location>
+          <longitude>-74.6592735</longitude>
+          <latitude>40.3473159</latitude>
+          <altitude>59.638774</altitude>
+        </Location>
+        <Orientation>
+          <heading>0.2317952</heading>
+        </Orientation>
+        <Link>
+          <href>29/UUID_089d980d-18e9-4e53-963d-bb69d795fcdf.dae</href>
+        </Link>
+      </Model>
+    </Placemark>
+    <Placemark id="COLLADA_UUID_ff396bfd-2764-4e85-bd2b-cf9d649f41a0">
+      <name>UUID_ff396bfd-2764-4e85-bd2b-cf9d649f41a0</name>
+      <Model>
+        <altitudeMode>absolute</altitudeMode>
+        <Location>
+          <longitude>-74.6586873</longitude>
+          <latitude>40.3465984</latitude>
+          <altitude>59.537304</altitude>
+        </Location>
+        <Orientation>
+          <heading>0.2238205</heading>
+        </Orientation>
+        <Link>
+          <href>23/UUID_ff396bfd-2764-4e85-bd2b-cf9d649f41a0.dae</href>
+        </Link>
+      </Model>
+    </Placemark>
+    <Placemark id="COLLADA_UUID_48ff8bbe-3c76-4722-abb3-056423313e25">
+      <name>UUID_48ff8bbe-3c76-4722-abb3-056423313e25</name>
+      <Model>
+        <altitudeMode>absolute</altitudeMode>
+        <Location>
+          <longitude>-74.6591153</longitude>
+          <latitude>40.3475347</latitude>
+          <altitude>64.422983</altitude>
+        </Location>
+        <Orientation>
+          <heading>0.2244836</heading>
+        </Orientation>
+        <Link>
+          <href>35/UUID_48ff8bbe-3c76-4722-abb3-056423313e25.dae</href>
+        </Link>
+      </Model>
+    </Placemark>
+  </Document>
+</kml>
